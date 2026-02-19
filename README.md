@@ -1,3 +1,11 @@
+## Features
+
+- ✅ Product listing with search & filter
+- ✅ Responsive product card UI
+- ✅ Add to cart / favorite
+- ✅ User authentication (register/login)
+- ✅ Full CRUD REST API
+- ✅ Loading skeletons & error handling
 
 ## Stack
 - **Frontend**: React + Vite + TypeScript + Tailwind CSS
