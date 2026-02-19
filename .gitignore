@@ -1,10 +1,6 @@
-## Stack
-- **Frontend**: React + Vite + TypeScript + Tailwind CSS
-
-### Frontend
-cd frontend
-
-npm install
-
-npm run dev            # Run at http://localhost:5173
-
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
